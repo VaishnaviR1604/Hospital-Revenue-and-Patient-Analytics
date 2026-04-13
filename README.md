@@ -1,4 +1,4 @@
-# 🏥 Hospital Revenue and Patient Analysis Dashboard
+# 🏥 Hospital Revenue and Patient Analytics Dashboard
 
 ## 📌 Project Overview
 
